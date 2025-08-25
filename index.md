@@ -64,3 +64,30 @@ def calculate_factorial(n):
 print(f"5! = {calculate_factorial(5)}")
 print(f"0! = {calculate_factorial(0)}")
 ```
+
+## Task List
+
+Here's an example of Markdown task lists (checkboxes):
+
+### Project Development Tasks
+
+- [x] Set up project repository
+- [x] Create initial README.md file
+- [x] Add project headers and structure
+- [x] Include example images
+- [x] Add code examples with syntax highlighting
+- [ ] Add task list section (currently working on this)
+- [ ] Review and test all Markdown elements
+- [ ] Deploy project documentation
+- [ ] Create user guide
+- [ ] Set up continuous integration
+
+### Learning Objectives
+
+- [x] Learn basic Markdown syntax
+- [x] Understand header hierarchies (H1-H6)
+- [x] Master image embedding
+- [x] Practice code block formatting
+- [ ] Complete task list implementation
+- [ ] Explore advanced Markdown features
+- [ ] Share knowledge with team members

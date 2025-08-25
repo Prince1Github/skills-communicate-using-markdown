@@ -19,3 +19,9 @@ Additional notes about the project.
 ###### Final Thoughts
 
 This is the smallest header size.
+
+## Image Example
+
+Here's an example of adding an image using Markdown:
+
+![Yaktocat](https://octodex.github.com/images/yaktocat.png)

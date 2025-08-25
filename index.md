@@ -70,7 +70,4 @@ print(f"0! = {calculate_factorial(0)}")
 - [ ] Outline my portfolio
 - [ ] Introduce myself to the world
 
-Here's an example of Markdown task lists (checkboxes):
-
-### Project Development Tasks
 
